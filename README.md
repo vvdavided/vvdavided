@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hey, I'm David
 
-<!--
-**vvdavided/vvdavided** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a certified **Data Scientist with Python**, transitioning from a background in backend development to a data-driven career. I specialize in **data analysis**, **statistical modeling**, and **data visualization**, using tools like Python, PowerBI, SQL, and Advanced Excel.
 
-Here are some ideas to get you started:
+My goal is to establish a thriving career in data science by improving the decision making process of businesses and turning data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Projects
+
+Welcome to my portfolio! Here I showcase practical projects that demonstrate my skills in:
+
+- Data wrangling and cleaning
+- Exploratory Data Analysis (EDA)
+- Statistical analysis & hypothesis testing
+- Creating dashboards and reports
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Languages:**  
+Python (Pandas, Matplotlib, Seaborn), SQL (MySQL, PL/SQL, SQLite, Oracle)
+
+**Databases:**  
+Google BigQuery, SQL Server, MariaDB, MySQL
+
+**Visualization:**  
+Power BI, Excel (Power Query, VBA), Matplotlib, Seaborn, Tableau
+
+**Cloud & Dev Tools:**  
+GCP (BigQuery & Logs), Git, IntelliJ, Atlassian suite (Jira, Confluence, Bitbucket)
+
+---
+
+## 👋🏻 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/vvdavided)
+- Email: vvdavided@gmail.com  
