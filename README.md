@@ -10,6 +10,7 @@ My goal is to establish a thriving career in data science by improving the decis
 
 Welcome to my portfolio! Here I showcase practical projects that demonstrate my skills in:
 
+[Jira Tickets Analysis - Support & Development](https://github.com/vvdavided/Jira-tickets-analysis?tab=readme-ov-file#-jira-tickets-analysis---support--development)
 - Data wrangling and cleaning
 - Exploratory Data Analysis (EDA)
 - Statistical analysis & hypothesis testing
